@@ -15,7 +15,6 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-    /*background: #000000;*/
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -90,6 +89,7 @@ body {
     text-shadow: 0px 6px 6px rgba(22, 28, 51, 0.4);
     transition: 0.25s;
 }
+
 .social__links ul li a .right i {
     font-size: 1.1rem;
     text-shadow: none;
@@ -99,7 +99,7 @@ body {
     line-height: 1.4rem;
 }
 
-.social__links ul li a:hover{
+.social__links ul li a:hover {
     color: #FAFAF7;
 }
 
@@ -133,6 +133,7 @@ body {
 
 .credits p {
     text-align: center;
+    font-size: 0.8rem;
 }
 
 @media only screen and (max-width: 549px) {
