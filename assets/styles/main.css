@@ -85,13 +85,13 @@ body {
 .social__links ul li a i {
     text-align: center;
     line-height: 4rem;
-    font-size: 2.52rem;
+    font-size: 2rem;
     text-shadow: 0px 6px 6px rgba(22, 28, 51, 0.4);
     transition: 0.25s;
 }
 
 .social__links ul li a .right i {
-    font-size: 1.1rem;
+    font-size: 0.8rem;
     text-shadow: none;
 }
 
